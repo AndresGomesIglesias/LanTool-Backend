@@ -1,0 +1,4 @@
+V 0.0.1 30 March 2020 - Initial django setup
+V 0.0.2 30 March 2020 - Setup of postgres locally and on Heroku NB: Remember to switch ssl mode from "disable" to "require" before commiting to Heroku
+V 0.0.3 31 March 2020 - Start work on feature setup_initial_api, goal is to setup a working api connected to a sample react app
+
